@@ -10,7 +10,20 @@ ChatterBox is a real-time chat application built using **PHP, JavaScript, MySQL,
 ✅ **Secure & Scalable** – Built with security best practices  
 
 ## 📸 Screenshots
-(Add some screenshots of the app here)
+### 🔹 Login Page
+![Login Page](/screenshots/login-page.png)
+
+### 🔹 Signup Page
+![Chat Interface](screenshots/signup-page.png)
+
+### 🔹 Chat Interface
+![Chat Interface](screenshots/chat-interface.png)
+
+### 🔹 Settings Interface
+![Chat Interface](screenshots/settings-interface.png)
+
+### 🔹 User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
 
 ## 🚀 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
